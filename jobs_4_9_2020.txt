@@ -1,0 +1,485 @@
+
+https://rush.igreentree.com/CSS_external/CSSPage_JobDetail.ASP?T=20200409102741&
+
+
+
+Job Detail
+
+    Job Title: 
+     Statistician 1 - Rush Alzheimer's Disease Center
+    Department: 
+     
+    Shift: 
+     1st
+    Full/Part: 
+     Active Regular FT (72 to 80 hours per pay period)
+    Specialty: 
+     Alzheimer's Disease
+    Job Number: 
+     2020-0860 
+
+
+Job Description:
+
+At Rush University Medical Center, we are committed to advancing scientific medical knowledge through research. We are revitalizing our medical centers with an emphasis on productivity, transparency and accountability. Are you looking to be a part of the exciting, always evolving and expanding new developments in research here at Rush University Medical Center? Are you well experienced in working with a variety of group, single and industry oriented studies?
+
+If this describes you, you may be the right candidate for the Statistician 1 position with the Rush Alzheimer’s Disease Center.
+
+Position Highlights:    Under the direction of the Supervising Statistician the Statistician I will be responsible for performing basic analyses of research data from Rush Alzheimer's Disease Center (RADC) research studies.  Exemplifies the Rush mission, vision and values and acts in accordance with Rush policies and procedures. 
+
+Position Responsibilities:
+
+1.       Under direction of Supervising Statistician, write and run programs in SAS and S-Plus to provide descriptive summaries of database files, including frequencies, lists, and plots; examine data to track down potential data inconsistencies. 
+
+2.       Write and run programs in SAS and S-Plus to carry out statistical analyses of biomedical data including categorical data, generalized linear models, longitudinal data, censored failure time data, nonparametric and parametric tests, and graphical analyses. 
+
+3.       Prepare clear and written output of basic analyses for other research faculty and staff. 
+
+4.       Under general supervision of Supervising Statistician, document basic datasets, programs and output clearly to permit their checking and use by other biostatistics personnel. 
+
+5.       Continually learn to use and apply new statistical techniques necessary to meet the demands of funded studies. 
+
+6.       Participate in meetings of Biostatistics section. 
+
+Position Qualifications Include:
+
+Knowledge:
+
+    Master's degree in statistics or biostatistics required.
+
+    1 to 2 years of work experience performing statistical analysis of biomedical or social science data is desirable.
+
+ 
+
+Skills & Abilities:
+
+    Ability to write and run programs in SAS or R required.
+
+    Competence in Microsoft Office: Word, Excel, Access, PowerPoint.
+
+    Good written and oral communication skills.
+
+    Attention to detail required.
+
+    Basic statistical programming skills required.
+
+    Ability to function in a team environment essential.
+
+    Must be able to prioritize workload and be self-directed.
+
+    Ability to handle multiple projects required.
+
+   
+
+Company Highlights:
+
+    Rush was recently ranked first for Quality and Accountability among US academic medical centers in a study conducted by the health care performance improvement company Vizient.
+
+    The Association for the Accreditation of Human Research Protection Programs (AAHRPP) has awarded Rush full accreditation for three years. Rush is one of the first academic medical centers in Illinois to receive this accreditation. 
+
+    As an academic medical center, Rush University Medical Center in Chicago, Illinois, is committed to advancing medical knowledge through research. Investigators at Rush are involved in more than 1,600 projects, including hundreds of clinical studies to test the effectiveness and safety of new therapies and medical devices, as well as to expand scientific and medical knowledge.
+
+ 
+
+    RUMC offers a competitive salary, outstanding benefits & the professional advantages of an environment that supports your development & recognizes your achievements.
+
+    Rush University is home to one of the first medical colleges in the Midwest and one of the nation's top-ranked nursing colleges, as well as graduate programs in allied health, health systems management and biomedical research.
+
+
+
+Rush is an equal opportunity employer.  We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. 
+
+
+
+
+
+
+
+
+
+Qntfy5.0
+Machine Learning Engineer (REMOTE)
+Chicago, IL
+
+https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=data+science+remote&sc.keyword=data+science+remote&locT=C&locId=1128808&jobType=
+
+
+Qntfy is looking for a talented and highly motivated ML Engineer to join our team. ML Engineers are responsible for building systems at the crossroads of data science and distributed computing. You will do a little bit of everything: from tuning machine learning models, to profiling distributed applications, to writing highly scalable software. We use technologies like Kubernetes, Docker, Kafka, gRPC, and Spark. You aren’t a DevOps, but an understanding of how the nuts and bolts of these systems fit together is helpful and you aren't a data scientist, but understanding how models work and are applied is just as important.
+
+U.S. Citizenship Required Responsibilities
+
+    Collaborate with data scientists to get their models deployed into production systems.
+    Develop and maintain systems for distributed model training and evaluation.
+    Design and implement APIs for model training, inference, and introspection.
+    Build tools for testing, benchmarking, and deploying analytics at scale.
+    Interface with the technical operations team to understand analytic performance and operational behavior.
+    Write and test code for highly available and high volume workloads.
+
+Qualifications
+
+    BS or Master’s degree in Computer Science, related degree, or equivalent experience.
+    5+ years experience with software engineering, infrastructure design, and/or machine learning.
+    Familiarity with Python and machine learning frameworks, paricularly Scikit-learn, Tensorflow, and Pytorch.
+    Experience with distributed machine learning using tools like Dask, Tensorflow, Kubeflow, etc.
+    Write well-structured, maintainable, idiomatic code with good documentation.
+    Strong work-ethic and passion for problem solving.
+
+Preferred Qualifications
+
+    Machine learning API development competencies.
+    Golang development experience.
+    Container orchestration and optimization knowledge.
+    Proficiency designing, implementing, and operating large-scale distributed systems.
+    Prior experience working in a distributed (fully remote) organization.
+
+Qntfy is committed to fostering and supporting a creative and diverse environment. Qntfy is an equal opportunity employer, and as such will consider all qualified applicants for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+
+
+
+
+Humana3.5
+Lead Data Scientist (REMOTE)
+Chicago, IL
+$91K-$150K (Glassdoor est.)
+
+Create Job Alert
+Most Relevant
+236 data science remote Jobs in Chicago, IL
+
+    Covance Logo
+    3.3
+    Covance
+    Senior Statistical Programmer: Real World Evidence/Data/ Health Outcomes (Remote)
+    Chicago, IL
+    $73k-$110k  
+    (Glassdoor Est.)
+
+Actively Hiring
+1d
+American Family Insurance Logo
+3.5
+American Family Insurance
+Data Science Director (Senior Director)
+Chicago, IL
+$94k-$109k  
+(Glassdoor Est.)
+Actively Hiring
+15d
+Thinkful Logo
+3.1
+Thinkful
+Data Engineering Curriculum Writer (REMOTE)
+Chicago, IL
+$22k-$50k  
+(Glassdoor Est.)
+New
+24hr
+UNHCR Logo
+4.0
+UNOPS
+Javascript Developer (REMOTE)
+Chicago, IL
+24hr
+GoHealth Logo
+3.4
+GoHealth
+Data Analyst
+Chicago, IL
+$35k-$68k  
+(Glassdoor Est.)
+Actively Hiring
+Easy Apply
+21d
+Braintree Logo
+3.9
+Braintree
+Data Analyst
+Chicago, IL
+$81k-$91k  
+(Glassdoor Est.)
+Hot
+10d
+Thinkful Logo
+3.1
+Thinkful Inc.
+D (REMOTE)
+Chicago, IL
+New
+24hr
+App Academy Logo
+4.3
+App Academy
+Director Curriculum (REMOTE)
+Chicago, IL
+New
+24hr
+Syngenta Logo
+3.9
+Syngenta
+Data Science and Advanced Analytics Intern
+Chicago, IL
+Hot
+14d
+Sonatype Logo
+4.8
+Sonatype
+Backend Engineer Data Team (REMOTE)
+Chicago, IL
+$100k-$154k  
+(Glassdoor Est.)
+New
+24hr
+Independence University Logo
+4.0
+CEHE
+Admissions Consultant - Remote (REMOTE)
+Chicago, IL
+$33k-$75k  
+(Glassdoor Est.)
+24hr
+Independence University Logo
+4.0
+CEHE
+Financial Planner Junior - REMOTE (REMOTE)
+Chicago, IL
+24hr
+Independence University Logo
+4.0
+CEHE
+Advisor, Student - REMOTE (REMOTE)
+Chicago, IL
+$39k-$72k  
+(Glassdoor Est.)
+24hr
+Ellumen Logo
+3.5
+Ellumen
+Software Developer - Telecommute (REMOTE)
+Chicago, IL
+$65k-$113k  
+(Glassdoor Est.)
+24hr
+Planet Green Search Logo
+5.0
+Planet Green Search
+Medical Science Liaison (MSL), Mid West, Remote
+Chicago, IL
+Easy Apply
+24hr
+Independence University Logo
+4.0
+CEHE
+Admissions Consultant - Remote - Military (REMOTE)
+Chicago, IL
+$33k-$75k  
+(Glassdoor Est.)
+24hr
+Ubiquisoft Technologies Logo
+5.0
+Ubiquisoft Technologies
+Java Developer (REMOTE)
+Chicago, IL
+24hr
+Financial Network Analytics Logo
+4.8
+FNA
+Data Scientist Advanced Analytics
+Chicago, IL
+Easy Apply
+11d
+Sonatype Logo
+4.8
+Sonatype
+Backend Engineer D (REMOTE)
+Chicago, IL
+$100k-$154k  
+(Glassdoor Est.)
+24hr
+Simple A Logo
+5.0
+Simple [A]
+Remote Kentico Developer (REMOTE)
+Chicago, IL
+24hr
+Capax Global Logo
+4.7
+Capax Global
+Data Scientist
+Chicago, IL
+$77k-$108k  
+(Glassdoor Est.)
+Hot
+14d
+Veeva Systems Logo
+3.3
+Veeva Systems
+Consultant (Remote)
+Chicago, IL
+$52k-$73k  
+(Glassdoor Est.)
+Hot
+20d
+Qntfy Logo
+5.0
+Qntfy
+Machine Learning Engineer (REMOTE)
+Chicago, IL
+24hr
+Humana Logo
+3.5
+Humana
+Lead Data Scientist (REMOTE)
+Chicago, IL
+$91k-$150k  
+(Glassdoor Est.)
+24hr
+Humana Logo
+3.5
+Humana
+Senior Data Scientist (REMOTE)
+Chicago, IL
+$68k-$112k  
+(Glassdoor Est.)
+
+    24hr
+    NS8 Logo
+    5.0
+    NS8
+    Director of Infrastructure (REMOTE)
+    Chicago, IL
+    24hr
+    Independence University Logo
+    4.0
+    CEHE
+    Career Services Advisor - REMOTE (REMOTE)
+    Chicago, IL
+    24hr
+    Google Logo
+    4.4
+    Google
+    Field Sales Representative, Healthcare & Life Sciences, Cloud
+    Chicago, IL
+    Top Company
+    9d
+    CRISP Logo
+    4.4
+    Crisp
+    D (REMOTE)
+    Chicago, IL
+    24hr
+    Simple A Logo
+    5.0
+    Simple A
+    Kentico Developer (REMOTE)
+    Chicago, IL
+    24hr
+
+Page 1 of 8
+Top Cities for science remote data: 
+Chicago, Evanston, Rosemont, Deerfield, Des Plaines, Downers Grove, Libertyville, Melrose Park, Gary
+Top Companies for science remote data in Chicago, IL: 
+Covance, American Family Insurance, Thinkful, UNHCR, GoHealth, Braintree, App Academy, Syngenta, Sonatype, Independence University
+
+    Help / Contact Us
+    Terms of Use
+    Privacy & Cookies
+
+Choose a Country
+
+Copyright © 2008–2020, Glassdoor, Inc. "Glassdoor" and logo are registered trademarks of Glassdoor, Inc.
+Humana3.5
+Lead Data Scientist (REMOTE)
+Chicago, IL
+$91K-$150K (Glassdoor est.)
+more
+Humana3.5
+Lead Data Scientist (REMOTE)
+more
+Job
+Company
+Rating
+Salary
+Reviews
+Benefits
+Job
+Company
+Rating
+Salary
+Reviews
+Benefits
+Description
+
+The Lead Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Lead Data Scientist works on problems of diverse scope and complexity ranging from moderate to substantial.
+
+Responsibilities
+
+This is a unique opportunity for a motivated individual to influence Humana's vision to provide coordinated, integrated care via home care solutions and ECOM (Enterprise Clinical Operating Model). The Lead Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.
+
+Responsibilities
+
+The Lead Data Scientist develops, maintains, and executes on advanced statistical and machine learning techniques to help solve critical business problems and ultimately improve the health and wellbeing of our members. This role advises key executives to develop functional strategies (often segment specific) on matters of significance. Exercises independent judgment and decision making on complex issues regarding job duties and related tasks, and works under minimal supervision, Uses independent judgment requiring analysis of variable factors and determining the best course of action.
+Collaborate with key business leaders to understand business problems and formulate analytical solutions for problem solving as well as lead or collaborate with a team of data scientists, data analysts or big data engineers on analytical projects, proving benefits of solutions and helping with execution and measurement Use advanced analytic techniques like machine learning, predictive modeling to develop sophisticated models to solve the business problem Act as an external facing business translator whose combined expertise in AI/ML and analytics will enable the incorporation of these practices to drive data driven decision in practice Ensure the developed models or statistical tests are reusable and modular for effective transition to cloud in the future Deep dives across member populations to determine opportunities for improved timing or type of intervention Advanced predictive analytics to help optimize the touchpoint patterns following these deepdives Serve as a key participant of a cross-functional, collaborative team focused on develop consumer-centric strategies that drive value to the member and the business
+
+Required Qualifications
+PhD + 2 years' experience, Master's Degree + 4 years' experience OR Bachelor's Degree + 6 years' experience. Data Analytics, Computer Science or related quantitative program. 2+ years' experience in project, process or people leadership Experience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions Successful demonstrated experience in working on problems of diverse scope and complexity ranging from moderate to substantial Advanced programming experience in Python, R, or SAS Experience in creating analysis, projections, models, and presentations to support business Experience in developing, maintaining, and collecting structured and unstructured data sets for analysis and reporting Ability to exercise independent judgment and decision making on complex issues regarding job duties and related tasks Ability to works under minimal supervision, using independent judgment Ability to communicate statistical & complex concepts in a simplified manner Must be passionate about contributing to an organization focused on continuously improving consumer experiences
+
+Preferred Qualifications
+PhD Knowledge of healthcare claims, clinical programs and interventions, health outcomes, population health NLP Experience
+
+Additional Information
+
+This position can be located in Boston, Louisville or work from home (remote)
+
+Scheduled Weekly Hours
+
+40
+
+
+Humana3.5
+Senior Data Scientist (REMOTE)
+
+
+Description
+
+The Senior Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Senior Data Scientist work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.
+
+Responsibilities
+
+This is a unique opportunity for a motivated individual to influence Humana's vision to provide coordinated, integrated care via home care solutions and ECOM (Enterprise Clinical Operating Model). The Senior Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.
+
+Responsibilities
+Recommend, design, and develop actionable analytic solutions for key business problems through in-depth investigations of healthcare utilization trends and outcomes Use advanced analytic techniques like machine learning, predictive modeling to develop sophisticated models to solve the business problem Use industry leading database systems, clinical decision engines and algorithms to extract meaningful insights from structured and unstructured data by leveraging NLP/ML Ensure the developed models or statistical tests are reusable and modular for effective transition to cloud in the future Work directly with aligned business partners and assist in requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship management Build 'smart' systems that learn from health intervention outcomes, clinical programs over time Collaborate with multiple cross-functional teams to understand the business needs, identify any operational barriers and issues, and facilitate their resolution
+
+In the first year this role will focus on the following
+Develop effective partnerships with internal business partners and coworkers Work in an agile way to produce, interpret and recommend real time optimization opportunities for the business to implement using advanced analytics techniques Enhance the ability to work in a fast-paced environment, multitask and quickly pivot based on business needs Develop subject matter expertise in the business needs and serve as a consulting resource for the clinical analytic needs of the stakeholders Implement real time business feedback of analytics based on the direct needs of internal customers
+
+Required Qualifications
+Master's Degree + 3 years' experience OR Bachelor's Degree + 5 years' experience. Data Analytics, Computer Science or related quantitative program Experience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions Experience in working with assignments that involve moderately complex to complex issues using statistical modeling, time-series analysis, and advanced analytics to transform high volumes of complex data into advanced analytic solutions Experience in working with both structured and unstructured data to create reports, projections, models, and presentations to support business strategy and tactics Ability to make decisions on moderately complex to complex issues regarding technical approach for project components Demonstrated problem solving, strategic and analytic thinking capabilities Experience in working with cross-functional teams, organizing and managing multiple priorities and/or projects Must be passionate about contributing to an organization focused on continuously improving consumer experiences
+
+Preferred Qualifications
+Master's Degree or PhD Knowledge of healthcare claims, clinical programs and interventions, health outcomes, population health
+
+Additional Information
+
+This position can be located in Boston, Louisville or Work from home (remote)
+
+Scheduled Weekly Hours
+
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
